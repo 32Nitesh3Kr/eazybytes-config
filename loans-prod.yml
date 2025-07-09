@@ -4,5 +4,5 @@ spring:
       on-profile: "prod"
 
 loans:
-  name: "prateek"
+  name: "{cipher}4f29c4ef6edfafcabf8851192a365b7cad687088b665cffe92b127d4477ba9a6"
   age: "27"
